@@ -1,5 +1,6 @@
 package 인터페이스구현실습;
 
+//실행 클래스
 public class MyTest {
 
 	public static void main(String[] args) {
@@ -16,5 +17,6 @@ public class MyTest {
 		rc.turnOn();
 		rc.setVolume(5);
 		rc.turnOff();
+		
 	}
 }
